@@ -83,7 +83,7 @@ EXIT_LINE = [(287, 341), (420, 267)]   # Exit line coordinates
 ### Basic Usage
 
 ```bash
-python main.py
+python ver2.py
 ```
 
 ### Controls
