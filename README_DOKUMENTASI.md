@@ -266,7 +266,7 @@ Motor masuk: 15, Motor keluar: 12
 3. **OCR tidak akurat**
    - Sesuaikan parameter enhancement
    - Periksa kualitas gambar input
-   - Atur ROI dengan lebih presisi
+   - Atur ROI dengan lebih presisi, tips: akses [link berikut](https://g.co/gemini/share/c377971ac90c)
 
 4. **Double counting**
    - Sesuaikan parameter ByteTrack
